@@ -1,0 +1,17 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+canvas {
+	display: block;
+	position:absolute;
+	top:100px;
+	left:400px;
+}
+h1{
+	text-align:center;
+}
+body{
+	background-image: linear-gradient(to left, red, yellow);
+}
+
